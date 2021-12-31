@@ -16,8 +16,6 @@ body{
 .container{
     height: 100px;
     width: 100px;
-    /* background-image: url(plus.svg); */
-    /* border: 1px solid red; */
     position: relative;
 }
 
